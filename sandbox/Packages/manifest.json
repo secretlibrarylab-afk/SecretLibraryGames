@@ -1,0 +1,5 @@
+﻿{
+  "dependencies": {
+    "com.SecretLibraryGames.VRPlayer": "file:../packages/com.SecretLibraryGames.VRPlayer",
+  }
+}
